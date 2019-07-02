@@ -1,3 +1,2 @@
-surging is a high-performance microservice framework based on the .NET core language,It was created by an individual and designed for use in the cloud,
-Then add to dotnetcore
+Surging 是一个高性能的微服务框架基于.NET Core,它是个人创建的并且用于集群,然后添加到 dotnetcore
 
